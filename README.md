@@ -1,1 +1,1 @@
-# housingprice
+# housing price prediction using linear regression model
